@@ -1,1 +1,293 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T13:35:35.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="0bf4hvUbaOMFiWZd3L_i" version="14.6.1" type="github"><diagram id="bmkmJUHo4lsQN5beoJEN" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-20T13:36:54.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="xHSWpvX7RZLT3j_OgaFZ" version="14.6.1" type="github">
+  <diagram id="bmkmJUHo4lsQN5beoJEN" name="Page-1">
+    <mxGraphModel dx="2308" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-1" target="iyaMaOZgVaHDSLnFH6Vt-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-1" value="AGA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-4" target="iyaMaOZgVaHDSLnFH6Vt-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-4" value="Directorio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="5OqUEDpeTGY5jBxO59fn-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="340" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="5OqUEDpeTGY5jBxO59fn-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="160" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="iyaMaOZgVaHDSLnFH6Vt-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="1030" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="iyaMaOZgVaHDSLnFH6Vt-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="-180" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="iyaMaOZgVaHDSLnFH6Vt-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="-680" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-6" target="iyaMaOZgVaHDSLnFH6Vt-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="410" />
+              <mxPoint x="520" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-6" value="Gerente General" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-10" target="5OqUEDpeTGY5jBxO59fn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-10" target="5OqUEDpeTGY5jBxO59fn-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-680" y="540" />
+              <mxPoint x="-840" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-10" target="5OqUEDpeTGY5jBxO59fn-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-680" y="540" />
+              <mxPoint x="-520" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-10" value="Gerencia de Producción" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-740" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-12" target="iyaMaOZgVaHDSLnFH6Vt-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="540" />
+              <mxPoint x="430" y="540" />
+              <mxPoint x="430" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-12" target="iyaMaOZgVaHDSLnFH6Vt-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="540" />
+              <mxPoint x="607" y="540" />
+              <mxPoint x="607" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-12" value="Gerencia de Administración" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-15" target="iyaMaOZgVaHDSLnFH6Vt-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-15" target="5OqUEDpeTGY5jBxO59fn-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-15" target="5OqUEDpeTGY5jBxO59fn-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="540" />
+              <mxPoint x="-340" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-15" target="5OqUEDpeTGY5jBxO59fn-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="540" />
+              <mxPoint x="-20" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-15" value="Gerencia Comercial" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-17" target="iyaMaOZgVaHDSLnFH6Vt-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="540" />
+              <mxPoint x="870" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-17" target="iyaMaOZgVaHDSLnFH6Vt-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-17" target="iyaMaOZgVaHDSLnFH6Vt-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-17" value="Gerencia de Sistemas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-17" target="iyaMaOZgVaHDSLnFH6Vt-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-35" value="Asesoría de Materia Prima" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-38" value="Dpto. de ingresos" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-41" value="Dpto. de procesamiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-43" target="iyaMaOZgVaHDSLnFH6Vt-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="540" />
+              <mxPoint x="1030" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-43" value="Dpto. de información" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-45" value="Oficina tecnica" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-50" value="Dpto. de Costos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-51" target="iyaMaOZgVaHDSLnFH6Vt-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="660" />
+              <mxPoint x="680" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-51" target="iyaMaOZgVaHDSLnFH6Vt-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="660" />
+              <mxPoint x="520" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-51" value="Dpto. de Finanzas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="5OqUEDpeTGY5jBxO59fn-49" target="iyaMaOZgVaHDSLnFH6Vt-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-52" target="iyaMaOZgVaHDSLnFH6Vt-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="780" />
+              <mxPoint x="600" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-52" value="Sec. de Contabilidad de impuestos" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-55" value="Sec. Contabilidad Costos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-56" value="Oficina de materia prima y mano de obra" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iyaMaOZgVaHDSLnFH6Vt-59" value="Oficina de gastos secundarios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-1" value="Capital" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-3" value="Exterior" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-7" value="Interior" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-12" value="Producción de Linternas" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-740" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-15" value="Producción de Artefacto de techos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-900" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-16" value="Producción de Veladores" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="5OqUEDpeTGY5jBxO59fn-21" target="iyaMaOZgVaHDSLnFH6Vt-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-21" value="Asesoría de Contabilidad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-23" value="Oficina de Seguridad" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-24" value="Secretaría de Asuntos Legales" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-42" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="235" y="465" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-43" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="235" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-44" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="585" y="650" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-52" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="590" y="465" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-49" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="425" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="iyaMaOZgVaHDSLnFH6Vt-52" target="5OqUEDpeTGY5jBxO59fn-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="750" as="sourcePoint" />
+            <mxPoint x="440" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5OqUEDpeTGY5jBxO59fn-54" value="&lt;h1&gt;&lt;/h1&gt;&lt;span id=&quot;docs-internal-guid-3b07e593-7fff-fd05-10c5-be9083cdeb51&quot;&gt;&lt;h1 dir=&quot;ltr&quot; style=&quot;text-align: justify ; line-height: 1.38 ; margin-top: 24pt ; margin-bottom: 0pt ; padding: 0pt 0pt 6pt&quot;&gt;&lt;span style=&quot;font-size: 11.5pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; font-weight: 400 ; vertical-align: baseline&quot;&gt;Errores detectados y sugerencias&lt;/span&gt;&lt;/h1&gt;&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify ; line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;1) Alcance de control: Al ver la cantidad de gerencias a las que está a cargo el gerente gral. uno pensaría que vaya ese tipo sabe trabajar, la cosa no es tan así, llegará un punto donde el gerente será ineficiente a la hora de dar órdenes, esto no es muy importante pero es necesario tomarlo en cuenta.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify ; line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;2) Mezcla de criterios de departamentalización: Vemos que tenemos una secretaria y una oficina que se ocupan de asuntos relacionados entre sí, la sugerencia sería que ambas se desprenden de un nueva gerencia, ej; &quot;Gerencia de Seguridad&quot;, o bien en vez de eso añadir una nueva asesoría como lo hacen la mayoría de empresas esta se llamaría &quot;Asesoria de seguridad&quot;.&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p dir=&quot;ltr&quot; style=&quot;text-align: justify ; line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;3,4,5) En la 3, 4 y 5 se presentan varios problemas, la más evidente es la asesoría innecesaria, si se tienen 11 empleados para ocuparse de la contabilidad de la empresa ¿porque contratar a uno más que se encarga de hacer lo mismo?. Suponiendo que la empresa tiene demasiados gastos y requiere si o si de una asesoría, seguimos teniendo problema en la 5 donde vemos una oficina que se encarga de dos trabajos a la vez&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="-70" width="340" height="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
